@@ -5,10 +5,8 @@ This repository contains a **Playwright API testing** setup, covering basic API 
 ## Features
 - **Basic API Tests**: Covers `GET`, `POST`, `PUT`, `DELETE` requests.
 - **Authentication & Tokens**: Handles login, token generation, and secured API calls.
-- **Custom Headers**: Supports headers and request modifications.
+- **Custom Headers**: Supports headers Dynamic Data and request modifications.
 - **Assertions & Validations**: Validates status codes, response structures, and data.
-- **Environment Support**: Configurable for different environments (dev, staging, production).
-- **CI/CD Integration**: Ready for automation in pipelines.
 
 ## Installation
 1. Clone the repository:
